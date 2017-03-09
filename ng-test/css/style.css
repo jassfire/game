@@ -1,0 +1,13 @@
+.content{
+	width: 200px;
+	margin: 0 auto;
+}
+.error{
+	color: #a10;
+}
+input.error{
+	border: 1px solid #a10;
+}
+/*p.error{
+	display: none;
+}*/
